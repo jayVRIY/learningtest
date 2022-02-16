@@ -1,0 +1,8 @@
+top/jaylearning/studentmanger/config/SpringConfig.java
+ top.jaylearning.studentmanger.config.SpringConfig
+top/jaylearning/studentmanger/config/SpringMvcConfig.java
+ top.jaylearning.studentmanger.config.SpringMvcConfig
+top/jaylearning/studentmanger/config/WebInit.java
+ top.jaylearning.studentmanger.config.WebInit
+top/jaylearning/studentmanger/controller/WebController.java
+ top.jaylearning.studentmanger.controller.WebController
